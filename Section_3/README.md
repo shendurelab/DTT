@@ -1,0 +1,1 @@
+The scripts used for analyzing data from 106 gastruloids profiled with 10X, as described in the 'The cell type compositions of monoclonal gastruloids are informed by relatedness of their founders' section.

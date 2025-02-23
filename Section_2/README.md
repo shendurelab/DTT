@@ -1,0 +1,1 @@
+The scripts used for analyzing data from 8 gastruloids profiled with 10X, as described in the 'Phylogenetic reconstruction of the cell lineage histories of monoclonal gastruloids' section.

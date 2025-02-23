@@ -1,0 +1,1 @@
+The scripts used for analyzing data from 144 gastruloids profiled with sci-RNA-seq3, as described in the 'Inter-individual heterogeneity among monoclonal gastruloids' section.
