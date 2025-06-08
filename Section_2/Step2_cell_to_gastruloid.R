@@ -21,6 +21,11 @@
 ### 1) mGASv3_Lane1_CellByTape_10X_bamExtractV3_t100_Site1collapsed2_v240330.csv
 ### 2) mGASv3_Lane2_CellByTape_10X_bamExtractV3_t100_Site1collapsed2_v240331.csv
 
+### Some intermediate profiles are provided in case you prefer not to regenerate them
+### https://shendure-web.gs.washington.edu/content/members/cxqiu/public/nobackup/sam_tape/data_mGASv3
+### 1) cell_id.txt ### line 277, 289
+### 2) cell_assign.rds ### line 292
+
 clone_list = data.frame(clone_id = c(rep("Clone-05", 3), rep("Clone-25", 3), rep("Clone-32", 2)),
                         well_id = c("Well14", "Well17", "Well25", "Well01", "Well03", "Well21", "Well16", "Well28"))
 
